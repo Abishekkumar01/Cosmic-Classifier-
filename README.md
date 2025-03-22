@@ -1,6 +1,6 @@
 # Cosmic Classifier 🌌
 
-## Introduction
+## 🛰️ Introduction
 
 Welcome to the Cosmic Classifier project, an advanced machine learning solution developed by our TEAM HELIOS for the Galactic Classification Challenge (GCC) 2025 hosted by IIT Roorkee. This project tackles the fascinating challenge of classifying exoplanets based on their potential for human survival and resource availability.
 
@@ -12,7 +12,7 @@ This repository contains the complete solution including data preprocessing, exp
 
 The Cosmic Classifier uses multiple machine learning models to categorize planets into 10 distinct classes based on 10 planetary attributes. We've implemented a robust comparison framework to evaluate several classification algorithms and select the most effective approach.
 
-## Project Snapshots
+## 📸 Project Snapshots
 
 ![webpage]( https://github.com/Abishekkumar01/Cosmic-Classifier-/blob/main/image/cosmic.jpg "webpage")
 
@@ -67,7 +67,7 @@ An adaptive boosting algorithm that adjusts the importance of training examples 
 ### 6. XGBoost Classifier
 An optimized implementation of gradient boosting that combines regularization with efficient computation. This state-of-the-art algorithm often achieves superior performance on structured data problems.
 
-## Technologies / Frameworks Used
+## 🌐 Technologies / Frameworks Used
 - Streamlit
 - Python
 - Scikit learn
