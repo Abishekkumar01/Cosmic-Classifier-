@@ -14,7 +14,7 @@ The Cosmic Classifier uses multiple machine learning models to categorize planet
 
 ## 📸 Project Snapshots
 
-![webpage]( https://github.com/Abishekkumar01/Cosmic-Classifier-/blob/main/image/cosmic.jpg "webpage")
+![webpage]( ./image/image.png "webpage")
 
 ## 📊 Dataset Description
 
