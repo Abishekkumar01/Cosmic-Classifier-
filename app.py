@@ -19,7 +19,7 @@ def get_video_base64(video_path):
         return base64.b64encode(video_file.read()).decode()
 
 # Video path - make sure this path is correct for your deployment environment
-video_path = "C:/Users/Admin/Desktop/IITR/image/space.mp4"
+video_path = "./image/space.mp4"
 
 # Attempt to encode the video - handle failure gracefully
 try:
